@@ -1,0 +1,77 @@
+@media screen and (max-width: 1000px) {
+	.jumbotron-img {
+		margin: auto;
+	}
+	.text-jumbotron {
+		margin: auto;
+		text-align: center;
+	}
+	.contact img {
+		width: 50%;
+	}
+}
+@media screen and (max-width: 520px) {
+	h1 {
+		font-size: 30px;
+	}
+	h2 {
+		font-size: 26px;
+	}
+	h5 {
+		font-size: 18px;
+	}
+	.jumbotron-img {
+		max-width: 300px;
+	}
+	.text-jumbotron {
+		max-width: 100%;
+	}
+	.special-content {
+		flex-wrap: wrap;
+		margin-top: 10px;
+	}
+	.special-item {
+		margin-top: 30px;
+	}
+	.card {
+		max-width: 400px;
+	}
+	.footer-content {
+		text-align: center;
+	}
+	.col {
+		width: 100%;
+	}
+	.col h6 {
+		margin-top: 10px;
+	}
+	.hub {
+		text-align: left;
+	}
+	.line-title-footer {
+		margin: 8px auto 18px;
+	}
+	#profile {
+		text-align: center;
+	}
+	#profile img {
+		margin: auto;
+		width: 100%;
+	}
+	.contact {
+		flex-wrap: wrap;
+		text-align: center;
+	}
+	.contact img {
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.socmed div {
+		margin: auto;
+		text-align: left;
+		margin-top: 20px;
+	}
+	.button-send {
+		padding: 10px 60px;
+	}
+}
